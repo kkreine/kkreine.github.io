@@ -3,9 +3,17 @@ layout: page
 title: "about kori"
 permalink: https://kkreine.github.io/about-me
 ---
-###Hello yall welcome to my page
+### Hello yall welcome to my page
 
-Contact:
+## Contact:
 
-Cell: 985-707-3347
-Email: kkr.reine@gmail.com
+_Cell:_ 🗨️ 985-707-3347
+_Email:_ 📬 kkr.reine@gmail.com
+
+## What do I like other than this?
+
+- Garden
+- Kayak
+- Bike
+- Candle making
+- Travel
