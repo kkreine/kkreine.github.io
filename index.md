@@ -6,6 +6,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Experience
 
+**Online Store and Social Media Assistant**
+Three Divas Gift Shop - Slidell, LA
+November 2019 - January 2020
+Built a website through Shopify that increased sales for the business and expanded sales to nationwide
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
