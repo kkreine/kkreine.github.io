@@ -1,8 +1,22 @@
-## Welcome to Kori's Home
+### Welcome to Kori's Home
 
 You can use the [editor on GitHub](https://github.com/kkreine/kkreine.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+### Education
+
+**Loyola University New Orleans**
+> Bachelor of Science, Computer Science Cyber Security (3.9/4.0)
+> Graduation: May 2022
+> Dean’s List 2019, 2020, 2021
+> Alpha Sigma Nu Honor Society
+> National Society of Leadership and Success
+
+**Tech Talent South**
+> Java Code Immersion 9/2020 to 11/2020
+> Fundamentals of HTML, CSS, Bootstrap, SQL, Git
+> Build and deploy Twitter-like application in Java using Heroku and Spring Boot
 
 ### Experience
 
@@ -10,6 +24,22 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 > Three Divas Gift Shop - Slidell, LA
 > November 2019 - January 2020
 > Built a website through Shopify that increased sales for the business and expanded sales to nationwide
+
+**Recruiting Assistant**
+> New York Life &NYLife Securities LLC - New Orleans, LA 
+> May 2019 - August 2019
+> As assistant to partner, increased the number of interviews and hires to exceed quota
+
+**Account Manager**
+> NOLA Events and Promotions - New Orleans, LA
+> April 2018 - September 2018
+> Excellence in Leadership Award
+> Expanded company by hiring and training salespeople through daily meetings and field training
+
+**Freelance Childcare Provider**
+> October 2018 - April 2021
+> Assisted families and an elementary school for 15-25 hours per week while enrolled in school
+
 
 ### Markdown
 
