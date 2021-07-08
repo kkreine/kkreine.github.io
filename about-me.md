@@ -1,6 +1,7 @@
 ---
-layout: page
 title: "about kori"
+layout: page
+filename: about-me.md
 permalink: https://kkreine.github.io/about-me
 ---
 
