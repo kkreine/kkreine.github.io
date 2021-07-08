@@ -2,10 +2,9 @@
 title: "about kori"
 layout: page
 filename: about-me.md
-permalink: https://kkreine.github.io/about-me
 ---
 
-### Hello yall welcome to my page
+### Hello y'all welcome to my page
 
 ## Contact:
 
