@@ -17,4 +17,5 @@ _Email:_ 📬 kkr.reine@gmail.com
 - Kayak
 - Bike
 - Candle making
+- puzzles
 - Travel
