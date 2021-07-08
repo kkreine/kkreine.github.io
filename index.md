@@ -5,11 +5,11 @@ Hi! I'm Kori, a Computer Science Cybersecurity student at Loyola University New 
 ### Education
 
 **Loyola University New Orleans**
-> Bachelor of Science, Computer Science Cyber Security (3.9/4.0)
-> Graduation: May 2022
-> Dean’s List 2019, 2020, 2021
-> Alpha Sigma Nu Honor Society
-> National Society of Leadership and Success
+> Bachelor of Science, Computer Science Cyber Security (3.9/4.0)  
+> Graduation: May 2022  
+> Dean’s List 2019, 2020, 2021  
+> Alpha Sigma Nu Honor Society  
+> National Society of Leadership and Success  
 
 **Tech Talent South**
 > Java Code Immersion 9/2020 to 11/2020
