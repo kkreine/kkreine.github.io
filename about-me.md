@@ -1,6 +1,6 @@
 ---
 title: "about kori"
-layout: page
+layout: default
 filename: about-me.md
 ---
 
