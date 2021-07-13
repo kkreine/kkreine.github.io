@@ -13,16 +13,15 @@ filename: about-me.md
 _Cell:_ 🗨️ (504) 323-4524‬  
 _Email:_ 📬 kori.kreine@gmail.com
 
-## Languages:
-Java, Javascript,
+## Experience:
+Java, Javascript, C++, Python, Node.js, React
 
-## What do I like other than this?
+## Who am I?
 
 <img src="/assets/images/circle-broc.png" alt="broccoli">
 <img src="/assets/images/circle-andy.png" alt="andy">
 <img src="/assets/images/circle-kalanchoe.png" alt="kalanchoe">
-
-![alt text](https://github.com/kkreine/kkreine.github.io/tree/main/assets/images/circle-broc.png "I like gardening")
+<img src="/assets/images/circle-uke.png" alt="uke">
 
 - Garden
 - Kayak
