@@ -19,7 +19,7 @@ _Email:_ 📬 kori.kreine@gmail.com
 <img src="/assets/images/circle-andy.png" alt="andy">
 <img src="/assets/images/circle-kalanchoe.png" alt="kalanchoe">
 
-![broc](/assets/images/circle-broc.png)*broc*
+![alt text](https://github.com/kkreine/kkreine.github.io/tree/main/assets/images/circle-broc.png "I like gardening")
 
 - Garden
 - Kayak
