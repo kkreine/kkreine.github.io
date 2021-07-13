@@ -13,6 +13,9 @@ filename: about-me.md
 _Cell:_ 🗨️ (504) 323-4524‬  
 _Email:_ 📬 kori.kreine@gmail.com
 
+## Languages:
+Java, Javascript,
+
 ## What do I like other than this?
 
 <img src="/assets/images/circle-broc.png" alt="broccoli">
