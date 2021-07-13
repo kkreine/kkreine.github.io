@@ -4,19 +4,19 @@ layout: default
 filename: about-me.md
 ---
 
-<div align="center">
-    about kori
+<div align="center" style="color:green; font-size:40px;">
+    <strong>about kori</strong>
 </div>
 
-## Contact:
+## contact:
 
 _Cell:_ 🗨️ (504) 323-4524‬  
 _Email:_ 📬 kori.kreine@gmail.com
 
-## Experience:
+## experience:
 Java, Javascript, C++, Python, Node.js, React
 
-## Who am I?
+## who am I?
 
 <img src="/assets/images/circle-broc.png" alt="broccoli">
 <img src="/assets/images/circle-andy.png" alt="andy">
@@ -24,10 +24,3 @@ Java, Javascript, C++, Python, Node.js, React
 <img src="/assets/images/circle-uke.png" alt="uke">
 <img src="/assets/images/circle-tomato.png" alt="tomato">
 <img src="/assets/images/circle-kayak.png" alt="kayak">
-
-- Garden
-- Kayak
-- Bike
-- Candle making
-- puzzles
-- Travel

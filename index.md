@@ -4,11 +4,11 @@ layout: default
 filename: index.md
 ---
 
-### Welcome to Kori's Home
+### welcome to Kori's Home
 
 Hey y'all, I'm Kori, a Computer Science Cybersecurity student at Loyola University New Orleans. I'm a results-driven nerd who likes creating, being resourceful, and improving what already exists. I'm always asking questions. I'm currently looking for a software development internship that offers learning and growth.
 
-### Education
+### education
 
 **Loyola University New Orleans**
 > Bachelor of Science, Computer Science Cyber Security (3.9/4.0)  
@@ -22,7 +22,7 @@ Hey y'all, I'm Kori, a Computer Science Cybersecurity student at Loyola Universi
 > Fundamentals of HTML, CSS, Bootstrap, SQL, Git  
 > Build and deploy Twitter-like application in Java using Heroku and Spring Boot  
 
-### Experience
+### experience
 
 **Online Store and Social Media Assistant**
 > Three Divas Gift Shop - Slidell, LA  
@@ -44,7 +44,7 @@ Hey y'all, I'm Kori, a Computer Science Cybersecurity student at Loyola Universi
 > October 2018 - April 2021  
 > Assisted families and an elementary school for 15-25 hours per week while enrolled in school  
 
-### Volunteering
+### volunteering
 **Green Light New Orleans 2021**
 > Preparing rain barrels to combat flooding in New Orleans
 
