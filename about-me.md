@@ -16,7 +16,7 @@ _Email:_ 📬 kori.kreine@gmail.com
 ## experience:
 Java, Javascript, C++, Python, Node.js, React
 
-## who am I?
+## my free time?
 
 <img src="/assets/images/circle-broc.png" alt="broccoli">
 <img src="/assets/images/circle-andy.png" alt="andy">
