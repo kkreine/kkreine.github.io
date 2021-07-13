@@ -22,6 +22,8 @@ Java, Javascript, C++, Python, Node.js, React
 <img src="/assets/images/circle-andy.png" alt="andy">
 <img src="/assets/images/circle-kalanchoe.png" alt="kalanchoe">
 <img src="/assets/images/circle-uke.png" alt="uke">
+<img src="/assets/images/circle-tomato.png" alt="tomato">
+<img src="/assets/images/circle-kayak.png" alt="kayak">
 
 - Garden
 - Kayak

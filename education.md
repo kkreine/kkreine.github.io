@@ -4,26 +4,24 @@ layout: default
 filename: education.md
 ---
 
-### courses taken
-
 ## relevant coursework
-Corporate Cybersecurity Strategy
-Data Structures
-Software Engineering
-Operating Systems
-Game Programming
-Machine Learning
-Computer Organization
-Object-Oriented Programming
-Internet Technologies
-Languages and Paradigms
-Digital Forensics
-Introduction to Programming I
-Introduction to Programming II
-
-Elementary Functions and Calculus I
-Calculus I
-Calculus II
+Corporate Cybersecurity Strategy  
+Data Structures  
+Software Engineering  
+Operating Systems  
+Game Programming  
+Machine Learning  
+Computer Organization  
+Object-Oriented Programming  
+Internet Technologies  
+Languages and Paradigms  
+Digital Forensics  
+Introduction to Programming I  
+Introduction to Programming II  
+  
+Elementary Functions and Calculus I  
+Calculus I  
+Calculus II  
 
 ## other coursework
 Game As Art  
