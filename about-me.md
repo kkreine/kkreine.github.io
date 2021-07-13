@@ -19,6 +19,11 @@ _Email:_ 📬 kori.kreine@gmail.com
 <img src="/assets/images/circle-andy.png" alt="andy">
 <img src="/assets/images/circle-kalanchoe.png" alt="kalanchoe">
 
+<div class="content_img">
+ <img src='/assets/images/circle-broc.png' width='100%' height='100%'>
+ <div>I enjoy gardening</div>
+</div>
+
 - Garden
 - Kayak
 - Bike
