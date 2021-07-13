@@ -15,7 +15,7 @@ _Email:_ 📬 kori.kreine@gmail.com
 
 ## What do I like other than this?
 
-<img src="/assets/images/circle-broc.png" alt="broccoli">
+<img src="assets/images/circle-broc.png" alt="broccoli">
 
 - Garden
 - Kayak
