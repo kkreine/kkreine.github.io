@@ -19,7 +19,7 @@ _Email:_ 📬 kori.kreine@gmail.com
 <img src="/assets/images/circle-andy.png" alt="andy">
 <img src="/assets/images/circle-kalanchoe.png" alt="kalanchoe">
 
-![broccoli](https://github.com/adam-p/markdown-here/raw/master/src/common/images/circle-broc.png "Logo Title Text 1")
+![broc](/assets/images/circle-broc.png)*broc*
 
 - Garden
 - Kayak
