@@ -10,10 +10,12 @@ filename: about-me.md
 
 ## Contact:
 
-_Cell:_ 🗨️ (504) 323-4524‬
+_Cell:_ 🗨️ (504) 323-4524‬  
 _Email:_ 📬 kori.kreine@gmail.com
 
 ## What do I like other than this?
+
+<img src="/assets/images/circle-broc"/>
 
 - Garden
 - Kayak
