@@ -6,7 +6,7 @@ filename: index.md
 
 ### Welcome to Kori's Home
 
-Hi! I'm Kori, a Computer Science Cybersecurity student at Loyola University New Orleans. I'm currently seeking a software development internship that offers learning and growth.
+Hey y'all, I'm Kori, a Computer Science Cybersecurity student at Loyola University New Orleans. I'm a results-driven nerd who likes creating, being resourceful, and improving what already exists. I'm always asking questions. I'm currently looking for a software development internship that offers learning and growth.
 
 ### Education
 

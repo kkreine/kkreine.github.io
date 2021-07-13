@@ -4,12 +4,14 @@ layout: default
 filename: about-me.md
 ---
 
-### Hello y'all welcome to my page
+<p align="center">
+    **about kori**
+</p>
 
 ## Contact:
 
-_Cell:_ 🗨️ 985-707-3347
-_Email:_ 📬 kkr.reine@gmail.com
+_Cell:_ 🗨️ (504) 323-4524‬
+_Email:_ 📬 kori.kreine@gmail.com
 
 ## What do I like other than this?
 
