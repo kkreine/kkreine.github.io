@@ -4,9 +4,9 @@ layout: default
 filename: about-me.md
 ---
 
-<p align="center">
-    **about kori**
-</p>
+<div align="center">
+    about kori
+</div>
 
 ## Contact:
 
