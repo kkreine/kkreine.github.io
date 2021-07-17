@@ -45,14 +45,18 @@ Hey y'all, I'm Kori, a Computer Science Cybersecurity student at Loyola Universi
 > Assisted families and an elementary school for 15-25 hours per week while enrolled in school  
 
 ### volunteering
-**Green Light New Orleans 2021**
+**Green Light New Orleans**
+> 2021  
 > Preparing rain barrels to combat flooding in New Orleans
 
-**Anna’s Place 2018-2019**
+**Anna’s Place**
+> 2018-2019  
 > Assisting in an after-school program for disadvantaged local youth through homework help, assisting in music lessons, and dinner preparation
 
-**Boys Hope Girls Hope 2018-2019**
+**Boys Hope Girls Hope**
+> 2018-2019  
 > Tutored at a home that provided housing and education funding for local children
 
-**Alpha Omicron Pi Fraternity, Property Manager 2017-2018**
+**Alpha Omicron Pi Fraternity, Property Manager**
+> 2017-2018  
 > Managed the assets of the fraternity used for meetings and events
