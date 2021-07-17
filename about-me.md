@@ -18,7 +18,7 @@ _Location:_ 🏡 New Orleans, LA
 Java, Javascript, C++, Python, Node.js, React
 
 ## my free time?
-
+<!---
 <img src="/assets/images/circle-broc.png" alt="broccoli">
 <img src="/assets/images/circle-andy.png" alt="andy">
 <img src="/assets/images/circle-kalanchoe.png" alt="kalanchoe">
@@ -26,8 +26,8 @@ Java, Javascript, C++, Python, Node.js, React
 <img src="/assets/images/circle-tomato.png" alt="tomato">
 <img src="/assets/images/circle-kayak.png" alt="kayak">
 <img src="/assets/images/circle-puzzles.png" alt="puzzles">
+--->
 
-<!---
 | ![circle-broc.png](/assets/images/circle-broc.png) | 
 |:--:| 
 | *Gardening* |
@@ -57,4 +57,3 @@ Java, Javascript, C++, Python, Node.js, React
 | ![circle-andy.png](/assets/images/circle-andy.png) | 
 |:--:| 
 | *Caring for my puppy* |
---->
