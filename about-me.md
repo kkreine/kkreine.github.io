@@ -32,9 +32,7 @@ Java, Javascript, C++, Python, Node.js, React
 |:--:| 
 | *Gardening* |
 
-Cool
-
-| ![circle-kalanchoe.png](/assets/images/circle-kalanchoe.png | 
+| ![circle-kalanchoe.png](/assets/images/circle-kalanchoe.png) | 
 |:--:| 
 | *Growing and propagating succulents* |
 
