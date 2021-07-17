@@ -27,4 +27,5 @@ Java, Javascript, C++, Python, Node.js, React
 <img src="/assets/images/circle-kayak.png" alt="kayak">
 <img src="/assets/images/circle-puzzles.png" alt="puzzles">
 
-{% include image.html url="/assets/images/circle-broc.png" description="broc" %}
+{% include image.html url="/assets/images/circle-broc.png" description="gardening" %}
+{% include image.html url="/assets/images/circle-tomato.png" description="growing tomatoes" %}
