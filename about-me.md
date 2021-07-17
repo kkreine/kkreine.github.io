@@ -28,7 +28,7 @@ Java, Javascript, C++, Python, Node.js, React
 <img src="/assets/images/circle-puzzles.png" alt="puzzles">
 --->
 
-| ![circle-broc.png](/assets/images/circle-broc.png) | 
+| ![circle-broc.png](/assets/images/circle-broc.png) ![circle-kalanchoe.png](/assets/images/circle-kalanchoe.png)| 
 |:--:| 
 | *Gardening* |
 
@@ -57,3 +57,5 @@ Java, Javascript, C++, Python, Node.js, React
 | ![circle-andy.png](/assets/images/circle-andy.png) | 
 |:--:| 
 | *Caring for my puppy* |
+
+<!--- add bert>
