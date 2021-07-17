@@ -31,7 +31,9 @@ Java, Javascript, C++, Python, Node.js, React
 | ![circle-broc.png](/assets/images/circle-broc.png) | 
 |:--:| 
 | *Gardening* |
-|:--:| 
+
+Cool
+
 | ![circle-kalanchoe.png](/assets/images/circle-kalanchoe.png | 
 |:--:| 
 | *Growing and propagating succulents* |
