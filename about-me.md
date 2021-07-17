@@ -31,27 +31,27 @@ Java, Javascript, C++, Python, Node.js, React
 | ![circle-broc.png](/assets/images/circle-broc.png) | 
 |:--:| 
 | *Gardening* |
-
+|:--:| 
 | ![circle-kalanchoe.png](/assets/images/circle-kalanchoe.png | 
 |:--:| 
 | *Growing and propagating succulents* |
-
+|:--:| 
 | ![circle-uke.png](/assets/images/circle-uke.png | 
 |:--:| 
 | *Playing ukulele* |
-
+|:--:| 
 | ![circle-podcast.png](/assets/images/circle-podcast.png | 
 |:--:| 
 | *Listening to podcasts* |
-
+|:--:| 
 | ![circle-kayak.png](/assets/images/circle-kayak.png | 
 |:--:| 
 | *Kayaking* |
-
+|:--:| 
 | ![circle-puzzles.png](/assets/images/circle-puzzles.png | 
 |:--:| 
 | *Doing puzzles* |
-
+|:--:| 
 | ![circle-andy.png](/assets/images/circle-andy.png | 
 |:--:| 
 | *Caring for my puppy* |
