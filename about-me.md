@@ -35,6 +35,8 @@ Java, Javascript, C++, Python, Node.js, React
 | ![circle-kalanchoe.png](/assets/images/circle-kalanchoe.png | 
 |:--:| 
 | *Growing and propagating succulents* |
+
+<!---
 |:--:| 
 | ![circle-uke.png](/assets/images/circle-uke.png | 
 |:--:| 
@@ -42,7 +44,7 @@ Java, Javascript, C++, Python, Node.js, React
 |:--:| 
 | ![circle-podcast.png](/assets/images/circle-podcast.png | 
 |:--:| 
-| *Listening to podcasts* |
+| *Listening to podcasts (Radiolab, ReplyAll, and Darknet Diaries are my favorites)* |
 |:--:| 
 | ![circle-kayak.png](/assets/images/circle-kayak.png | 
 |:--:| 
@@ -55,3 +57,4 @@ Java, Javascript, C++, Python, Node.js, React
 | ![circle-andy.png](/assets/images/circle-andy.png | 
 |:--:| 
 | *Caring for my puppy* |
+--->
