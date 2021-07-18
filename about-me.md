@@ -10,9 +10,9 @@ filename: about-me.md
 
 ## contact:
 
-_Cell:_ 🗨️ (504) 323-4524‬  
-_Email:_ 📬 kori.kreine@gmail.com  
-_Location:_ 🏡 New Orleans, LA
+🗨️ (504) 323-4524‬  
+📬 kori.kreine@gmail.com  
+🏡 New Orleans, LA
 
 ## experience:
 Java, Javascript, C++, Python, Node.js, React
