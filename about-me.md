@@ -35,15 +35,15 @@ Java, Javascript, C++, Python, Node.js, React
 |:--:| 
 | ![circle-uke.png](/assets/images/circle-uke.png) ![circle-podcast.png](/assets/images/circle-podcast.png)| 
 |:--:| 
-| *Playing ukulele                          Listening to podcasts* |
+| *Playing ukulele & Listening to podcasts* |
 
 | ![circle-podcast.png](/assets/images/circle-podcast.png) | 
 |:--:| 
 | *Listening to podcasts* |
 
-| ![circle-kayak.png](/assets/images/circle-kayak.png) | 
+| ![circle-kayak.png](/assets/images/circle-kayak.png) ![circle-andy.png](/assets/images/circle-andy.png)| 
 |:--:| 
-| *Kayaking* |
+| *Kayaking & Caring for my puppy* |
 
 <!---
 | ![circle-puzzles.png](/assets/images/circle-puzzles.png) | 
