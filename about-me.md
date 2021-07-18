@@ -30,25 +30,26 @@ Java, Javascript, C++, Python, Node.js, React
 
 | ![circle-broc.png](/assets/images/circle-broc.png) ![circle-kalanchoe.png](/assets/images/circle-kalanchoe.png)| 
 |:--:| 
-| *Gardening and Growing and propagating succulents* |
+| *Gardening and growing and propagating succulents* |
 
 |:--:| 
-| ![circle-uke.png](/assets/images/circle-uke.png) | 
+| ![circle-uke.png](/assets/images/circle-uke.png) ![circle-podcast.png](/assets/images/circle-podcast.png)| 
 |:--:| 
-| *Playing ukulele* |
+| *Playing ukulele                          Listening to podcasts* |
 
 | ![circle-podcast.png](/assets/images/circle-podcast.png) | 
 |:--:| 
-| *Listening to podcasts (Radiolab, ReplyAll, and Darknet Diaries are my favorites)* |
+| *Listening to podcasts* |
 
 | ![circle-kayak.png](/assets/images/circle-kayak.png) | 
 |:--:| 
 | *Kayaking* |
 
+<!---
 | ![circle-puzzles.png](/assets/images/circle-puzzles.png) | 
 |:--:| 
 | *Doing puzzles* |
-
+--->
 | ![circle-andy.png](/assets/images/circle-andy.png) | 
 |:--:| 
 | *Caring for my puppy* |
