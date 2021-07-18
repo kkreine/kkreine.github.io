@@ -58,4 +58,3 @@ Java, Javascript, C++, Python, Node.js, React
 |:--:| 
 | *Caring for my puppy* |
 --->
-<!--- add bert>
