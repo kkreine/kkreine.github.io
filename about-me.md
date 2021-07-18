@@ -43,9 +43,13 @@ Java, Javascript, C++, Python, Node.js, React
 | *Listening to podcasts* |
 --->
 
-| ![circle-kayak.png](/assets/images/circle-kayak.png) ![circle-andy.png](/assets/images/circle-andy.png)| 
+| ![circle-kayak.png](/assets/images/circle-kayak.png) ![circle-puzzles.png](/assets/images/circle-puzzles.png)| 
 |:--:| 
-| *Kayaking ~ Caring for my puppy* |
+| *Kayaking ~ Doing puzzles* |
+
+| ![circle-andy.png](/assets/images/circle-andy.png) ![circle-bert.png](/assets/images/circle-bert.png)| 
+|:--:| 
+| *Caring for my puppy and short-tailed opossum* |
 
 <!---
 | ![circle-puzzles.png](/assets/images/circle-puzzles.png) | 
