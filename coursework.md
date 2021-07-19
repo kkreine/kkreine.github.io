@@ -22,6 +22,7 @@ Game Programming
 Machine Learning  
 > [Logistic Regression with College Admittance](https://github.com/kkreine/ logistic-regression-practice)  
 > [Decision Tree with malignant or benign tumors](https://github.com/kkreine/decision-tree-tumors)  
+
 Computer Organization  
 Object-Oriented Programming  
 Internet Technologies  
@@ -46,6 +47,7 @@ World Religions and Ecology
 Social Problems  
 Medical Ethics  
 Heresies and Heretics  
+[Research on UNRWA at UCSB](https://youtu.be/Z7Zs69PvHt4)
   
 Introduction to Latin American History  
 Global History II  
