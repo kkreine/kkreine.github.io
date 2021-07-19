@@ -4,17 +4,16 @@ layout: default
 filename: coursework.md
 ---
 
-Javascript:  
-- [Garden Helper](https://github.com/kkreine/garden-helper-app)  
+## projects
+[Garden Helper](https://github.com/kkreine/garden-helper-app)  
 (In progress)  
-React web application using an API to search for plants by name or season and location.
+React web application using an API to search for plants by name or season and location.  
 
-Python:  
-- [Logistic Regression with College Admittance](https://github.com/kkreine/ logistic-regression-practice)  
-- [Decision Tree with Malignant or Benign Tumors](https://github.com/kkreine/decision-tree-tumors)
+[Logistic Regression with College Admittance in Python](https://github.com/kkreine/ logistic-regression-practice)  
 
-Java:
-- [Blackjack](https://github.com/kkreine/blackjack)  
+[Decision Tree with Malignant or Benign Tumors in Python](https://github.com/kkreine/decision-tree-tumors)
+
+[Blackjack in Java](https://github.com/kkreine/blackjack)  
 
 ## relevant courses
 
