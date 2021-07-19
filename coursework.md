@@ -4,6 +4,11 @@ layout: default
 filename: coursework.md
 ---
 
+Garden Helper (in progress)
+{% include button.html url="https://github.com/kkreine/garden-helper-app" %}
+
+React web application using an API to search for plants by name or season and location.
+
 ## relevant courses
 Corporate Cybersecurity Strategy  
 Data Structures  
