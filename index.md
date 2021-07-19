@@ -24,6 +24,10 @@ Hey y'all, I'm Kori, a Computer Science Cybersecurity student at Loyola Universi
 
 ### experience
 
+**Freelance Childcare Provider**
+> October 2018 - April 2021  
+> Assisted families and an elementary school for 15-25 hours per week while enrolled in school 
+
 **Online Store and Social Media Assistant**
 > Three Divas Gift Shop - Slidell, LA  
 > November 2019 - January 2020  
@@ -40,9 +44,11 @@ Hey y'all, I'm Kori, a Computer Science Cybersecurity student at Loyola Universi
 > Excellence in Leadership Award  
 > Expanded company by hiring and training salespeople through daily meetings and field training  
 
-**Freelance Childcare Provider**
-> October 2018 - April 2021  
-> Assisted families and an elementary school for 15-25 hours per week while enrolled in school  
+ **Team Leader**
+ > Jumpstart - Chicago, IL
+ > October 2017 - April 2018
+ > Led a team of college students in implementing a bi-weekly lesson plan for low-income pre-schools while enrolled full-time in school
+ > Coach team members and coordinate team administration
 
 ### volunteering
 **Green Light New Orleans**

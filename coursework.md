@@ -1,7 +1,7 @@
 ---
-title: "education"
+title: "coursework"
 layout: default
-filename: education.md
+filename: coursework.md
 ---
 
 ## relevant coursework
