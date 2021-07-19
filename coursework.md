@@ -7,6 +7,8 @@ filename: coursework.md
 Garden Helper (in progress)
 
 
+<a href="https://github.com/kkreine/garden-helper-app" class="button">Garden Helper</a>
+
 React web application using an API to search for plants by name or season and location.
 
 ## relevant courses
