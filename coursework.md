@@ -5,21 +5,21 @@ filename: coursework.md
 ---
 
 [Garden Helper](https://github.com/kkreine/garden-helper-app)  
-(In progress)
+(In progress)  
 React web application using an API to search for plants by name or season and location.
 
 ## relevant courses
 
 Corporate Cybersecurity Strategy  
 Data Structures  
-> [Blackjack](https://github.com/kkreine/blackjack)
+> [Blackjack](https://github.com/kkreine/blackjack)  
 Software Engineering  
 Operating Systems  
 Game Programming  
-> [Solar System Simulation](https://github.com/kkreine/Solar-System-Proj)
+> [Solar System Simulation](https://github.com/kkreine/Solar-System-Proj)  
 Machine Learning  
-> [Logistic Regression with College Admittance](https://github.com/kkreine/logistic-regression-practice)
-> [Decision Tree with malignant or benign tumors](https://github.com/kkreine/decision-tree-tumors)
+> [Logistic Regression with College Admittance](https://github.com/kkreine/ logistic-regression-practice)
+> [Decision Tree with malignant or benign tumors](https://github.com/kkreine/decision-tree-tumors)  
 Computer Organization  
 Object-Oriented Programming  
 Internet Technologies  
