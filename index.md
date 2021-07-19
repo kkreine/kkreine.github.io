@@ -43,9 +43,9 @@ Hi y'all, I'm Kori, a Computer Science Cybersecurity student at Loyola Universit
 > Expanded company by hiring and training salespeople through daily meetings and field training  
 
  **Team Leader**
- > Jumpstart - Chicago, IL
- > October 2017 - April 2018
- > Led a team of college students in implementing a bi-weekly lesson plan for low-income pre-schools while enrolled full-time in school
+ > Jumpstart - Chicago, IL  
+ > October 2017 - April 2018  
+ > Led a team of college students in implementing a bi-weekly lesson plan for low-income pre-schools while enrolled full-time in school  
  > Coach team members and coordinate team administration
 
 ### volunteering
