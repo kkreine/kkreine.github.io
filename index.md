@@ -24,7 +24,7 @@ Hi y'all, I'm Kori, a Computer Science Cybersecurity student at Loyola Universit
 
 **Freelance Childcare Provider**
 > October 2018 - April 2021  
-> Assisted families and an elementary school for 15-25 hours per week while enrolled in school 
+> Assisted families and an elementary school for 15-25 hours per week while enrolled full-time in school 
 
 **Online Store and Social Media Assistant**
 > Three Divas Gift Shop - Slidell, LA  
