@@ -20,7 +20,7 @@ Machine Learning
 - [Logistic Regression with College Admittance](https://github.com/kkreine/ logistic-regression-practice)  
 - [Decision Tree with malignant or benign tumors](https://github.com/kkreine/decision-tree-tumors)  
 
-Corporate Cybersecurity Strategy 
+Corporate Cybersecurity Strategy  
 Software Engineering  
 Operating Systems  
 Computer Organization  
