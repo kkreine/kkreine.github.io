@@ -10,6 +10,8 @@ Garden Helper (in progress)
 React web application using an API to search for plants by name or season and location.
 
 ## relevant courses
+
+ok
 Corporate Cybersecurity Strategy  
 Data Structures  
 Software Engineering  
