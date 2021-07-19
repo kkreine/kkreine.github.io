@@ -4,7 +4,7 @@ layout: default
 filename: coursework.md
 ---
 
-## relevant coursework
+## relevant courses
 Corporate Cybersecurity Strategy  
 Data Structures  
 Software Engineering  
@@ -23,7 +23,7 @@ Elementary Functions and Calculus I
 Calculus I  
 Calculus II  
 
-## other coursework
+## other courses
 Game As Art  
 Language, History, and Culture of France II & III  
 Language and the Human I & II  
