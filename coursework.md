@@ -38,7 +38,7 @@ Calculus II
 
 ## other courses
 Game As Art  
-Language, History, and Culture of France II & III  
+Language, History, and Culture of France II & II[I](/fr.md)  
 Language and the Human I & II  
 Introduction to Comparative Governments  
 African American Women's Poetry  
