@@ -5,7 +5,7 @@ filename: coursework.md
 ---
 
 Javascript:  
-[Garden Helper](https://github.com/kkreine/garden-helper-app)  
+- [Garden Helper](https://github.com/kkreine/garden-helper-app)  
 (In progress)  
 React web application using an API to search for plants by name or season and location.
 
