@@ -17,20 +17,18 @@ React web application using an API to search for plants by name or season and lo
 
 ## relevant courses
 
-Data Structures  
-Machine Learning  
-Game Programming  
-Corporate Cybersecurity Strategy  
-Software Engineering  
-Operating Systems  
 Computer Organization  
-Object-Oriented Programming  
+Corporate Cybersecurity Strategy  
+Data Structures  
+Digital Forensics  
+Game Programming  
 Internet Technologies  
 Languages and Paradigms  
-Digital Forensics  
-Introduction to Programming I  
-Introduction to Programming II  
-  
+Machine Learning  
+Object-Oriented Programming  
+Operating Systems  
+Software Engineering  
+
 Elementary Functions and Calculus I  
 Calculus I  
 Calculus II  
