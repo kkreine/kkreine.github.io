@@ -13,7 +13,7 @@ React web application using an API to search for plants by name or season and lo
 
 [Decision Tree with Malignant or Benign Tumors in Python](https://github.com/kkreine/decision-tree-tumors)
 
-[Blackjack in Java](https://github.com/kkreine/blackjack)  
+["Blackjack" Card Game in Java](https://github.com/kkreine/blackjack)  
 
 ## relevant courses
 
