@@ -45,7 +45,7 @@ World Religions and Ecology
 Social Problems  
 Medical Ethics  
 Heresies and Heretics  
-[Research on UNRWA at UCSB](https://youtu.be/Z7Zs69PvHt4)
+[Research](https://youtu.be/Z7Zs69PvHt4) on UNRWA at UCSB  
   
 Introduction to Latin American History  
 Global History II  
