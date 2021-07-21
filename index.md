@@ -17,6 +17,7 @@ Hi y'all, I'm Kori, a Computer Science Cybersecurity student at Loyola Universit
 
 **Tech Talent South**
 > [Java Code Immersion](https://cdn2.hubspot.net/hubfs/2577343/Syllabus/Code%20Immersion%20-%20Full%20Time%20Syllabus%20(JB).pdf?utm_campaign=Admissions%20Workflow&utm_medium=email&_hsmi=78161155&_hsenc=p2ANqtz-8oPQngzsguc0s3YEt2k-uCroy8wnPWancKdxtvTytHtnvQTQAGPm49dWliynup4tOE3-T7-6HX3p-X2TxajSDl2Ig0vw&utm_content=78161155&utm_source=hs_automation) 9/2020 to 11/2020  
+<a href="https://cdn2.hubspot.net/hubfs/2577343/Syllabus/Code%20Immersion%20-%20Full%20Time%20Syllabus%20(JB).pdf?utm_campaign=Admissions%20Workflow&utm_medium=email&_hsmi=78161155&_hsenc=p2ANqtz-8oPQngzsguc0s3YEt2k-uCroy8wnPWancKdxtvTytHtnvQTQAGPm49dWliynup4tOE3-T7-6HX3p-X2TxajSDl2Ig0vw&utm_content=78161155&utm_source=hs_automation" target="_blank">Java Code Immersion</a>
 > Fundamentals of HTML, CSS, Bootstrap, SQL, Git  
 > Build and deploy Twitter-like application in Java using Heroku and Spring Boot  
 
