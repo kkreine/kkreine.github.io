@@ -27,7 +27,8 @@ Languages and Paradigms
 Machine Learning  
 Object-Oriented Programming  
 Operating Systems  
-Software Engineering  
+Software Engineering 
+> In this class, the class worked as a team to build a voting machine. I worked in a backend, frontend, and management role at different points in the semester.  
 
 Elementary Functions and Calculus I  
 Calculus I  
