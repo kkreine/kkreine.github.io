@@ -22,7 +22,7 @@ Corporate Cybersecurity Strategy
 Data Structures  
 Digital Forensics  
 Game Programming  
-Internet Technologies  
+[Internet Technologies](http://people.loyno.edu/~rharvey/teaching/cosc-a319/2020f/)  
 Languages and Paradigms  
 Machine Learning  
 Object-Oriented Programming  
