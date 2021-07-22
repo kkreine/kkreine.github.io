@@ -53,7 +53,7 @@ Hi y'all, I'm Kori, a Computer Science Cybersecurity student at Loyola Universit
 ### volunteering
 **Green Light New Orleans**
 > April 2021 - Present  
-> Preparing rain barrels to combat flooding in New Orleans
+> Preparing [rain barrels](https://www.greenlightneworleans.org/rainbarrels.html){:target="_blank"} to combat flooding in New Orleans
 
 **Anna’s Place**
 > September 2018 - May 2019  
