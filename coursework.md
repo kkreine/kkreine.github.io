@@ -20,7 +20,7 @@ Corporate Cybersecurity [Strategy](/CCSS.md)
 Data Structures  
 Digital Forensics  
 Game Programming  
-Internet Technologies[(Course link)](http://people.loyno.edu/~rharvey/teaching/cosc-a319/2020f/)  
+Internet Technologies  
 Languages and Paradigms  
 Machine Learning  
 Object-Oriented Programming  
