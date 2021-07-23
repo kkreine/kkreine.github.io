@@ -9,10 +9,10 @@ filename: coursework.md
 (In progress)  
 React web application using an API to search for plants by name or season and location.  
 
-[Logistic Regression with College Admittance in Python](https://github.com/kkreine/logistic-regression-exercise)  
+[Logistic Regression with College Admittance in Python](https://github.com/kkreine/ML-logistic-regression-exercise)  
 [Machine Learning with Malignant or Benign Tumors in Python](https://github.com/kkreine/ML-predicting-tumors)
 
-["Blackjack" Card Game in Java](https://github.com/kkreine/blackjack)  
+["Blackjack" Card Game in Java](https://github.com/kkreine/DS-blackjack)  
 
 ## relevant courses
 
