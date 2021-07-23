@@ -3,5 +3,5 @@ title: "kori reine"
 description: "coder. student. inquisitive. adaptable."
 show_downloads: true
 sass:
-  sass_dir: _sass
+  sass_dir: assets/css
   style: compressed
