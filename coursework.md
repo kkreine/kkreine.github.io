@@ -5,7 +5,7 @@ filename: coursework.md
 ---
 
 ## projects
-[Garden Helper](https://github.com/kkreine/garden-helper-app)  
+[Garden Helper](https://github.com/kkreine/garden-helper-app){target="_blank}  
 (In progress)  
 React web application using an API to search for plants by name or season and location.  
 
@@ -16,7 +16,7 @@ React web application using an API to search for plants by name or season and lo
 ## relevant courses
 
 Computer Organization  
-Corporate Cybersecurity Strategy  
+Corporate Cybersecurity [Strategy](/CCSS.md)  
 Data Structures  
 Digital Forensics  
 Game Programming  
@@ -34,7 +34,7 @@ Calculus II
 
 ## other courses
 Game As Art  
-Language, History, and Culture of France II & II[I](/fr.md)  
+Language, History, and Culture of France II & [III](/fr.md)  
 Language and the Human I & II  
 Introduction to Comparative Governments  
 African American Women's Poetry  
