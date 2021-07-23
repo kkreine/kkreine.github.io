@@ -9,7 +9,7 @@ filename: coursework.md
 (In progress)  
 React web application using an API to search for plants by name or season and location.  
 
-[Logistic Regression with College Admittance in Python](https://github.com/kkreine/logistic-regression-practice)  
+[Logistic Regression with College Admittance in Python](https://github.com/kkreine/logistic-regression-exercise)  
 
 [Decision Tree with Malignant or Benign Tumors in Python](https://github.com/kkreine/decision-tree-tumors)
 
