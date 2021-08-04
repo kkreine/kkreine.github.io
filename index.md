@@ -21,8 +21,8 @@ Hi y'all, I'm Kori, a Computer Science Cybersecurity student at Loyola Universit
 > Build and deploy Twitter-like application in Java using Heroku and Spring Boot  
 
 **Udemy**
-> [2020 Complete Ruby on Rails Bootcamp](https://www.udemy.com/course/2020-complete-ruby-on-rails-6-bootcamp-learn-ruby-on-rails/){target="_blank"}
-> Fundamentals of Ruby and Ruby on Rails
+> [2020 Complete Ruby on Rails Bootcamp](https://www.udemy.com/course/2020-complete-ruby-on-rails-6-bootcamp-learn-ruby-on-rails/){:target="_blank"}  
+> Fundamentals of Ruby and Ruby on Rails  
 > Create three Ruby on Rails applications, one with fully-functioning user authentication and login application
 
 ### experience
