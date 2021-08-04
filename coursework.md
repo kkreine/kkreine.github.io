@@ -5,7 +5,10 @@ filename: coursework.md
 ---
 
 ## projects
-[Orbit Feedback Application (Ruby on Rails)](https://github.com/kkreine/orbit001){:target="_blank"} 
+Orbit Feedback Application using Ruby on Rails
+- [GitHub link](https://github.com/kkreine/orbit001){:target="_blank"}  
+- [Website link](https://afternoon-spire-34284.herokuapp.com){:target="_blank"}  
+
 
 [Garden Helper](https://github.com/kkreine/garden-helper-app){:target="_blank"}  
 (In progress)  
