@@ -27,6 +27,7 @@ Digital Forensics
 Game Programming  
 Internet Technologies  
 Languages and Paradigms  
+Learn Ruby Codecademy  
 Machine Learning  
 Object-Oriented Programming  
 Operating Systems  

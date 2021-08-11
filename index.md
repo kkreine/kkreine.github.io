@@ -25,6 +25,11 @@ Hi y'all, I'm Kori, a Computer Science Cybersecurity student at Loyola Universit
 > Fundamentals of Ruby and Ruby on Rails  
 > Create three Ruby on Rails applications, one with fully-functioning user authentication and login application
 
+**Louisiana School for Math, Science, and the Arts**
+> High School Diploma (3.97/4.0), Natchitoches, LA  
+> Graduation: May 2017
+
+
 ### experience
 
 **Freelance Childcare Provider**
