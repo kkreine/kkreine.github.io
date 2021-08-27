@@ -20,11 +20,6 @@ Hi y'all, I'm Kori, a Computer Science Cybersecurity student at Loyola Universit
 > Fundamentals of HTML, CSS, Bootstrap, SQL, Git  
 > Build and deploy Twitter-like application in Java using Heroku and Spring Boot  
 
-**Udemy**
-> [2020 Complete Ruby on Rails Bootcamp](https://www.udemy.com/course/2020-complete-ruby-on-rails-6-bootcamp-learn-ruby-on-rails/){:target="_blank"}  
-> Fundamentals of Ruby and Ruby on Rails  
-> Create three Ruby on Rails applications, one with fully-functioning user authentication and login application
-
 **Louisiana School for Math, Science, and the Arts**
 > High School Diploma (3.97/4.0), Natchitoches, LA  
 > Graduation: May 2017

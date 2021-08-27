@@ -20,6 +20,7 @@ React web application using an API to search for plants by name or season and lo
 
 ## relevant courses
 
+Udemy [2020 Complete Ruby on Rails Bootcamp](https://www.udemy.com/course/2020-complete-ruby-on-rails-6-bootcamp-learn-ruby-on-rails/){:target="_blank"}  
 Computer Organization  
 Corporate Cybersecurity [Strategy](/CCSS.md)  
 Data Structures  
