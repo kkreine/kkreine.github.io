@@ -14,9 +14,6 @@ filename: about-me.md
 📬 kori.kreine@gmail.com  
 🏡 New Orleans, LA
 
-## experience:
-Java, Javascript, C++, Python, Node.js, React
-
 ## my free time?
 <!---
 <img src="/assets/images/circle-broc.png" alt="broccoli">
